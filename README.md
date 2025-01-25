@@ -44,7 +44,7 @@ This repository contains:
 Feel free to fork the repository and contribute by creating pull requests. You can add more data insights, improve the visualizations, or share any suggestions for improvement. 📝
 
 ## License 📜
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LIECENSE) file for details.
 
 ## Contact 📬
 If you have any questions or suggestions regarding this analysis, please feel free to reach out.
