@@ -26,7 +26,7 @@ This repository contains:
 
 ## How to Use 🛠️
 - **Download the PDF**: You can view the full analysis by downloading the PDF report from the link below. 📥
-  - [Download UPI Transactions Analysis PDF](https://github.com/yourusername/repository-name/raw/main/UPI_Transactions_Analysis.pdf)
+  - [Download UPI Transactions Analysis PDF](UPI_Transactions_Analysis.pdf)
   
   Or you can explore the data by downloading the full **Power BI Desktop** report (`.pbix` file) if you want to interact with it directly (requires Power BI Desktop installed). 🔄
 
