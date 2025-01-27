@@ -27,6 +27,13 @@ This repository contains:
 ## How to Use 🛠️
 - **Download the PDF**: You can view the full analysis by downloading the PDF report from the link below. 📥
   - [Download UPI Transactions Analysis PDF](UPI_Transactions_Analysis.pdf)
+### Sample Dashboard Visuals 📊
+
+1. **Page 1 - Transaction Volume Trends**:  
+   ![Page 1](https://github.com/mercydeez/UPI_Dashboard_PowerBI/blob/main/Page1.png)
+
+2. **Page 2 - Regional Distribution**:  
+   ![Page 2](https://github.com/mercydeez/UPI_Dashboard_PowerBI/blob/main/Page2.png)
   
   Or you can explore the data by downloading the full **Power BI Desktop** report (`.pbix` file) if you want to interact with it directly (requires Power BI Desktop installed). 🔄
 
