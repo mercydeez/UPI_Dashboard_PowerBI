@@ -34,8 +34,6 @@ This repository contains:
 
 2. **Page 2 - Regional Distribution**:  
    ![Page 2](https://github.com/mercydeez/UPI_Dashboard_PowerBI/blob/main/Page2.png)
-  
-  Or you can explore the data by downloading the full **Power BI Desktop** report (`.pbix` file) if you want to interact with it directly (requires Power BI Desktop installed). 🔄
 
 ## Data Sources 📊
 - **UPI Transaction Data**: The dataset includes aggregated transaction data over a period of time. It includes data on transaction amounts, methods, regions, and transaction types. 🔢
