@@ -20,13 +20,14 @@ This analysis provides a comprehensive view of UPI’s growth trajectory, offeri
 
 ## Project Structure 🏗️
 This repository contains:
-- **Power BI Report**: The report file (`UPI_Transactions_Analysis.pdf`) showcasing the visualized data. 📂
+- **Power BI Report**: The report file (`UPI_Transactions_Analysis.pbix`) showcasing the visualized data. 📂
   - **Page 1**: Overview of transaction volume trends, payment method breakdowns, and KPIs.
   - **Page 2**: Regional distribution and insights into growth patterns.
 
 ## How to Use 🛠️
-- **Download the PDF**: You can view the full analysis by downloading the PDF report from the link below. 📥
-  - [Download UPI Transactions Analysis PDF](UPI_Transactions_Analysis.pdf)
+- **Download the PBIX file**: You can view and interact with the full analysis by downloading the Power BI report file from the link below. 📥
+  - [Download UPI Transactions Analysis PBIX](UPI_Transactions_Analysis.pbix)
+
 ### Sample Dashboard Visuals 📊
 
 1. **Page 1 - Transaction Volume Trends**:  
@@ -49,7 +50,7 @@ This repository contains:
 Feel free to fork the repository and contribute by creating pull requests. You can add more data insights, improve the visualizations, or share any suggestions for improvement. 📝
 
 ## License 📜
-This project is licensed under the MIT License - see the [LICENSE](LIECENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact 📬
 If you have any questions or suggestions regarding this analysis, please feel free to reach out.
